@@ -17,3 +17,8 @@ Rossmann operates over 3,000 drug stores in 7 European countries Store sales are
   4) Regression Models (XGb, K-Neighbors, GradientBoosting)
   5) Preprocessing - 2nd Phase to improve the accuracy of the model.
   6) Model Evaluation (Learning Curves, Bias-Variance Analysis, Model Selection)
+
+
+## Files in repo:
+  1) Rossmann_Store_Sales   - Final iPy Notebook file
+  2) Rossmann_Store_Sales.docx   - Report
